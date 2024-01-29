@@ -1,0 +1,3 @@
+import printt
+
+printt.hello()
